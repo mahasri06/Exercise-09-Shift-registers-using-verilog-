@@ -128,7 +128,7 @@ endmodule
 ### Serial Input Parallel Output:
 ![op](./sipo2.png)
 ### Parallel Input Serial Output:
-![op](./2abc1.png)
+![op](./2abc.png)
 ### Parallel Input Parallel Output:
 ![op](./pipo2.png)
 
